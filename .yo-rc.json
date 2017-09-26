@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "Mock",
+    "repo": "gcloudService/API-Mock",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
