@@ -1,4 +1,4 @@
-# gCloud Mock OpenAPI Specification
+# Mock OpenAPI Specification
 [![Build Status](https://travis-ci.org/gcloudService/API-Mock.svg?branch=master)](https://travis-ci.org/gcloudService/API-Mock)
 
 ## Steps to finish
@@ -17,6 +17,7 @@
 ## Links
 
 - Documentation(ReDoc): https://gcloudservice.github.io/API-Mock/
+- SwaggerUI: https://gcloudservice.github.io/API-Mock/swagger-ui/
 - Look full spec:
     + JSON https://gcloudservice.github.io/API-Mock/swagger.json
     + YAML https://gcloudservice.github.io/API-Mock/swagger.yaml
